@@ -10,6 +10,6 @@
 
 ###
 
-![snake](https://raw.githubusercontent.com/rosie/rosie/blob/output/snake.svg)
+![demo](https://youtu.be/wiP3vSLlS48)
 
 ###
