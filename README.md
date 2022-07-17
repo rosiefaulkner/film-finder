@@ -10,6 +10,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/rosie/rosie/blob/output/snake.svg" alt="Snake animation" />
+![snake](https://raw.githubusercontent.com/rosie/rosie/blob/output/snake.svg)
 
 ###
