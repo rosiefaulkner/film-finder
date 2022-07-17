@@ -1,0 +1,24 @@
+{
+  "name": "filmfinder",
+  "version": "1.0.0",
+  "description": "Find images and information for movies you'd like to see, specified by genre",
+  "main": "index.php",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosiefaulkner/film-finder.git"
+  },
+  "author": "Rosie Faulkner <faulknerproject@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosiefaulkner/film-finder/issues"
+  },
+  "homepage": "https://github.com/rosiefaulkner/film-finder#readme"
+}

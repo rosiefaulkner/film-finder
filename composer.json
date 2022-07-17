@@ -1,0 +1,13 @@
+{
+    "name": "rosiefaulkner/film-finder",
+    "description": "Find images and information for movies you'd like to see, specified by genre",
+    "authors": [
+        {
+            "name": "rosiefaulkner",
+            "email": "faulknerproject@gmail.com"
+        }
+    ],
+    "require": {
+       
+    }
+}
