@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">To use, visit the demo site or simply fork and load to your webserver. This is created with vanilla JS without a framework.</p>
+<p align="left">To use, visit the [demo site](https://film-finder-rosiefaulkner.herokuapp.com/) or simply fork and load to your webserver. This is created with vanilla JS without a framework.</p>
 
 ###
 
